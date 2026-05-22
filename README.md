@@ -5,6 +5,9 @@ UniClub is a full-stack university club management platform that consolidates cl
 # Team Project
 Developed collaboratively with my teammates.
 
+# My Contribution
+- Frontend/UI Eng.
+
 **Live demo**
 
 - Frontend: https://uni-club-bay.vercel.app
